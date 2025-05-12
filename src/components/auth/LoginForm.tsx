@@ -74,7 +74,7 @@ const LoginForm = () => {
           Welcome Back
         </CardTitle>
         <CardDescription className="text-center">
-          Log in to access your LifeLink Services account
+          Log in to access your Local Connect account
         </CardDescription>
       </CardHeader>
       <CardContent>
