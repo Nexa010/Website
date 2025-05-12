@@ -200,7 +200,7 @@ const HomePage = () => {
             </h2>
             <p className="text-blue-100 text-lg mb-8 max-w-2xl mx-auto">
               Join thousands of students who are already enjoying the benefits
-              of LifeLink Services.
+              of Local Connect Services.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link to="/signup">
