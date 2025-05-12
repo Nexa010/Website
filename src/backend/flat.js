@@ -783,22 +783,3 @@ app.delete("/api/delete-carti/:id", async (req, res) => {
     res.status(500).json({ message: "Error deleting cart", error });
   }
 });
-app.put("/api/paynow", async (req, res) => {
-  const { email } = req.body;
-
-  try {
-    const result = await cartCollection.updateMany(
-      { email, paid: false },
-      { $set: { paid: true } }
-    );
-
-    if (result.modifiedCount === 0) {
-      return res.status(404).json({ message: "No unpaid items found for this email" });
-    }
-
-    res.status(200).json({ message: "Payment confirmed", updated: result.modifiedCount });
-  } catch (error) {
-    res.status(500).json({ message: "Error confirming payment", error });
-  }
-}
-);

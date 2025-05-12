@@ -48,7 +48,7 @@ const HomePage = () => {
               </div>
               <img
                 src="https://czrzkrlkqywcczazeopo.supabase.co/storage/v1/object/public/blog-images//Screenshot%202025-05-05%20at%209.08.59%20PM.png"
-                alt="Students using LifeLink services"
+                alt="Students using Local Connect services"
                 className="w-fit h-auto rounded-md"
               />
             </div>
@@ -137,7 +137,7 @@ const HomePage = () => {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">
-              Why Choose LifeLink
+              Why Choose Local Connect
             </h2>
             <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
               We're building a community-focused platform that makes student

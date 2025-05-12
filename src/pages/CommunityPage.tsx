@@ -244,20 +244,20 @@ const CommunityPage = () => {
                 <Card className="text-center p-4">
                   <Mail className="mx-auto text-life-blue-500 mb-2" />
                   <h4 className="font-semibold">Email</h4>
-                  <p className="text-gray-600 mt-2">support@lifelink.com</p>
+                  <p className="text-gray-600 mt-2">support@localconnect.com</p>
                 </Card>
                 <Card className="text-center p-4">
                   <Facebook className="mx-auto text-life-blue-500 mb-2" />
                   <h4 className="font-semibold">Facebook</h4>
                   <p className="text-gray-600 mt-2">
-                    facebook.com/lifelinkservices
+                    facebook.com/localconnect
                   </p>
                 </Card>
                 <Card className="text-center p-4">
                   <Linkedin className="mx-auto text-life-blue-500 mb-2" />
                   <h4 className="font-semibold">LinkedIn</h4>
                   <p className="text-gray-600 mt-2">
-                    linkedin.com/company/lifelink
+                    linkedin.com/company/localconnect
                   </p>
                 </Card>
                 <Card className="text-center p-4 col-span-full">
