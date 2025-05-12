@@ -121,9 +121,9 @@ Route	Method	Purpose
 ⸻
 
 👨‍💻 Developer
-	•	Name: Md Rakib Hossain
-	•	Email: mdrakibislam719@gmail.com
-	•	GitHub: mdrakib719
+	•	Name: Syeda Mahmuda
+	•	Email: syeda.mahmudabd@gmail.com
+	•	GitHub: Nexa010
 
 ⸻
 
