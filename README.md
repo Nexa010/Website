@@ -52,15 +52,13 @@ frontend/
 
 🚀 How to Run Locally
 
-1. Clone the Repository
-
-git clone https://github.com/yourusername/student-life-services.git
-cd student-life-services
+1. Dowload Zip from code
 
 2. Setup Backend
 
 cd backend
 npm install
+npm i 
 npm run dev  # or npm start
 
 Server runs on http://localhost:3000
